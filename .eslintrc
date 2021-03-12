@@ -27,14 +27,7 @@
     "rules": {
         "react/jsx-filename-extension": "off",
         "no-console": "off",
-        "prettier/prettier": [
-            "error",
-            {
-                "endOfLine": "auto",
-                "singleQuote": true,
-                "semi": false
-            }
-        ],
+        "prettier/prettier": ["error"],
         "import/no-extraneous-dependencies": [
             "error",
             {

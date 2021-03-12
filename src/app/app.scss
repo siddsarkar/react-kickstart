@@ -1,0 +1,12 @@
+.app {
+    height: 100vh;
+    text-align: center;
+    color: #0c0c0d;
+    background-color: #d7d7db;
+
+    &-header {
+        height: 40vh;
+        padding: 4.5rem;
+        background-color: #1b1b1b;
+    }
+}
